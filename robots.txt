@@ -1,0 +1,7 @@
+# SDM Real Estate — robots.txt
+# Replace the sitemap URL below with your live domain before or just after deploying.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://sdmrealestate.com/sitemap.xml
